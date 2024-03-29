@@ -1,4 +1,3 @@
-# TP2_PROVIS
 # TP2 PROVIS KELOMPOK 5 C1 2022
 ## Ketua dan Anggota Kelompok
 1. Raya Cahya Nurani 2205714 (Ketua Kelompok) 
